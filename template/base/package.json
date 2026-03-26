@@ -14,7 +14,7 @@
     "@iarna/toml": "^2.2.5",
     "@metaplex-foundation/shank-js": "^0.1.7",
     "typescript": "^5.5.2",
-    "zx": "^7.2.3"
+    "zx": "^8.8.5"
   },
   "engines": {
     "node": ">=v20.0.0"
